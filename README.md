@@ -28,6 +28,11 @@
 
 <h3>𝘔𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴:<h3>
 
+  
+  
+<h2>𝘔𝘺 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘴<h2>
+ <a href="https://t.me/MDR1996"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
 
 
 
